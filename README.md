@@ -28,7 +28,7 @@
 ║  Role     : AI × Hardware Engineer                           ║
 ║  Location : Somewhere between a terminal and a soldering gun ║
 ║  Status   : Building things that shouldn't be possible 🔧    ║
-║  Fuel     : Curiosity, caffeine, and late-night compile logs  ║
+║  Fuel     : Curiosity, caffeine, and late-night compile logs ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -111,11 +111,6 @@ Computer Vision           █████████████░░░░░
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SivTheCoder&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=3fb950&sideLabels=d2a8ff&dates=8b949e)
 
-<br>
-
-[![trophy](https://github-profile-trophy-h1s5etm9x-sivansh-guptas-projects.vercel.app/?username=SivTheCoder&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/SivTheCoder/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -149,10 +144,10 @@ Computer Vision           █████████████░░░░░
 
 | I'm into... | Looking for help with... |
 |:---|:---|
-| 🤖 AI + Hardware Integrations | 🚀 Scaling prototypes → real-world deployment |
-| 🦾 Robotics & Autonomous Systems | ⚙️ Optimizing ML models for edge devices |
-| 🔓 Open-Source Dev Tools | 🌐 Finding collaborators who ship fast |
-| ⚡ Hackathons & Fast-Build Innovation | 🧪 Real-world testing environments |
+| 🤖 AI + Hardware Integrations         | 🚀 Scaling prototypes → real-world deployment |
+| 🦾 Robotics & Autonomous Systems      | ⚙️ Optimizing ML models for edge devices      |
+| 🔓 Open-Source Dev Tools              | 🌐 Finding collaborators who ship fast        |
+| ⚡ Hackathons & Fast-Build Innovation | 🧪 Real-world testing environments            |
 
 </div>
 
