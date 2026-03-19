@@ -113,7 +113,7 @@ Computer Vision           █████████████░░░░░
 
 <br>
 
-[![trophy](https://github-profile-trophy-lemon-six.vercel.app/?username=SivTheCoder&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-h1s5etm9x-sivansh-guptas-projects.vercel.app/?username=SivTheCoder&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/SivTheCoder/github-profile-trophy)
 
 </div>
 
